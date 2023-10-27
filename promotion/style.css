@@ -1,0 +1,47 @@
+.titles{
+    border: 5px dashed rgba(205, 227, 249, 1);
+    background-color:rgb(255,139,96);
+    text-align: center;
+    width:37%;
+    position: absolute;
+    left:31%;
+    border-radius: 5%;
+    height: 350px
+}
+
+.bgwindow{
+    border: 5px dashed rgba(205, 227, 249, 1);
+    background-image: url("images/books.png");
+    width:100%;
+    position: absolute;
+    left:0%;
+    border-radius: 15%;
+    height: 350px
+}
+
+.imptext{
+    color:beige;
+    background-color: rgba(255, 86, 0, 1);
+    border-radius: 5%;
+}
+
+.highlighted{
+    background-color:rgba(147, 145, 255, 1);
+    border-radius: 15%;
+}
+
+.higherlighted{
+    background-color:rgba(48, 101, 155, 1);
+    border-radius: 15%;
+}
+
+body {
+    background-color: rgba(205, 227, 249, 1);
+    color:darkblue;
+    background-image: url("images/boodks.png");
+   }
+
+.smol {
+    width:75px;
+    height:75px;
+}
